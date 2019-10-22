@@ -1,1 +1,3 @@
-# challenges
+# Challenges repository
+
+Miscellaneous scripts.
